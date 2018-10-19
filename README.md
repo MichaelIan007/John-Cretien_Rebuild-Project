@@ -10,7 +10,7 @@ You will find in this link my 2 weeks of hard work dedication to duplicate the o
 and to my satisfaction I have done just that.
 
 Original Website link: http://www.johncretien.com/
-Duplicate Live Link: https://michaelian007.github.io/John-Cretien_Rebuild-Project/
+Duplicate Live Link: https://michaelian007.github.io/john-cretien/
 
 Technology information used:
 1) HTML
