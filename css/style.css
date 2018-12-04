@@ -195,6 +195,8 @@ h6 {
   grid-gap: 24px;
 }
 .grid-container-3 img {
+  max-height: 100%;
+  max-width: 100%;
   margin: 0;
   padding: 0;
   object-fit: cover;
