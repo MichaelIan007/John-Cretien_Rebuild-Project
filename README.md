@@ -10,7 +10,7 @@ You will find in this link, my 2 weeks of hard work and dedication to duplicate 
 and to my satisfaction I have done just that.
 
 Original Website link: http://www.jonchretien.com/
-Duplicate Live Link: https://michaelian007.github.io/john-chretien/
+Duplicate Live Link: https://michaelian007.github.io/jon-chretien/
 
 Technology information used:
 1) HTML
