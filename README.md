@@ -15,20 +15,20 @@ Original Website link: http://www.jonchretien.com/
 Duplicate Live Link: https://michaelian007.github.io/jon-chretien/
 
 Technology information used:
--HTML
--CSS
+-HTML  
+-CSS  
 -gitbash
 
 How to view project:
--Install Gitbash
--Run Gitbash
--Copy github repository link
--Type into Gitbash command = git clone
--Right click and click paste to paste the link
--Press enter
--Allow a moment for the repository to be copied to your local desktop
--Once done, open folder
--Click on index.html
+-Install Gitbash  
+-Run Gitbash  
+-Copy github repository link  
+-Type into Gitbash command = git clone  
+-Right click and click paste to paste the link  
+-Press Enter  
+-Allow a moment for the repository to be copied to your local desktop  
+-Once done, open folder  
+-Click on index.html  
 
 I have done some updating as needed and corrected a few mistakes that I have made, also spelling errors.
 
