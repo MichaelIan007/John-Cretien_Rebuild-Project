@@ -13,7 +13,19 @@ Original Website link: http://www.jonchretien.com/
 Duplicate Live Link: https://michaelian007.github.io/jon-chretien/
 
 Technology information used:
-1) HTML
-2) CSS
+-HTML
+-CSS
+-gitbash
+
+How to view project:
+-Install Gitbash
+-Run Gitbash
+-Copy github repository link
+-Type into Gitbash command = git clone
+-Right click and click paste to paste the link
+-Press enter
+-Allow a moment for the repository to be copied to your local desktop
+-Once done, open folder
+-Click on index.html
 
 Created by Michael Ian de Necker
