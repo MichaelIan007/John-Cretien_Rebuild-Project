@@ -286,6 +286,7 @@ nav li {
     margin: 0;
     padding: 0;
     object-fit: cover;
+    height: 250px;
   }
   .grid-item {
     max-width: 300px;
@@ -447,6 +448,7 @@ nav li {
     margin: 0;
     padding: 0;
     object-fit: cover;
+    height: 250px;
   }
   .grid-item {
     max-width: 400px;
@@ -512,7 +514,7 @@ nav li {
   /* Border 1 and 2 styling */
   .border-1 {
     padding-bottom: 72px;
-    border-bottom: 3px double #666;
+    border-bottom: 3px double hsla(0,0%,100%,.25);
     max-width: 100%;
     margin-left: auto;
     margin-right: auto;
@@ -526,7 +528,7 @@ nav li {
   h2 {
     color: white;
     font-family: "Vollkorn" , serif;
-    font-size: 47px;
+    font-size: 42px;
     font-weight: 700;
     margin-bottom: 10px;
     text-align: center;
