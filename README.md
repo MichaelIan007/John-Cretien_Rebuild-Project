@@ -30,4 +30,6 @@ How to view project:
 -Once done, open folder
 -Click on index.html
 
+I have done some updating as needed and corrected a few mistakes that I have made, also spelling errors.
+
 Created by Michael Ian de Necker
