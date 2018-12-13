@@ -63,7 +63,7 @@ a {
 }
 /* A links Hover Effect */
 a:hover {
-  color: #aaa;
+  color: #666;
   transition: color .2s ease;
   text-decoration: none;
   top: 0;
