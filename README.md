@@ -4,6 +4,8 @@ Jon Chretien website duplication
 
 Hello Viewer,
 
+This is currently our second project handed to us by Life Choices Academy for the Coding Course.
+
 We were tasked with creating a duplicate website that looks as similiar as possible to the orginal.
 
 You will find in this link, my 2 weeks of hard work and dedication to duplicate the original website
